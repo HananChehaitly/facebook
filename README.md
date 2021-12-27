@@ -16,7 +16,7 @@
 
 Clone the repository to the htdocs in xampp:
 
-- 
+- git clone https://github.com/HananChehaitly/facebook.git 
 
 Start xampp
 
